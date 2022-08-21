@@ -66,7 +66,7 @@ SCTV7高清,http://172.16.0.200:4022/udp/239.93.21.87:7348
 海南卫视,http://172.16.0.200:4022/udp/239.93.20.227:9834
 陕西农林,http://172.16.0.200:4022/udp/239.93.20.173:7942
 兵团卫视,http://172.16.0.200:4022/udp/239.93.21.254:7796
-港台(外网),#genre#
+港台(互联网),#genre#
 香港卫视HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰卫视HD,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 星空卫视,http://172.16.0.200:4022/udp/239.93.20.190:9612
